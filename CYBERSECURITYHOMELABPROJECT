@@ -1,1 +1,23 @@
-FULL LAB DETAILS COMING SOON!
+<img src=”(https://raw.githubusercontent.com/BossTudow/My_Portfolio.github.io/main/images/pic07.JPG)”>
+
+
+
+Cybersecurity Homelab Project:
+
+For this cybersecurity homelab project, I will be building and simulating a business network with different components including:
+
+Main PC → Windows Server 2016 (VM) 
+
+Main PC → Windows 10 Pro (VM) (Helpdesk)
+
+Main PC → Windows 10 Pro (VM) (Employee) 
+
+Main PC → PFSENSE (VM) → Home Router → Internet 
+
+Main PC → SERVER - VPN Server (VM)
+
+Main PC → SERVER - Vulnerability Scanner (Nessus) (VM)
+
+Main PC → SERVER - SIEM (Splunk) (VM)
+
+Configure and set up main PC →  Manage everything through Active directory
