@@ -1,5 +1,15 @@
 <img src=”(https://raw.githubusercontent.com/BossTudow/My_Portfolio.github.io/main/images/pic07.JPG)”>
 <img src="https://raw.githubusercontent.com/BossTudow/My_Portfolio.github.io/main/images/pic07.JPG">
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>HTML Image</h2>
+<img src="https://raw.githubusercontent.com/BossTudow/My_Portfolio.github.io/main/images/pic07.JPG" alt="Trulli" width="500" height="333">
+
+</body>
+</html>
+
 
 
 
